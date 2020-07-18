@@ -9,3 +9,6 @@ This code serves as a backup/public repository for the code written for JHMC. Th
 ## Usage
 Code in `./Roster Registration` should be put in the roster registration spreadsheet that the Roster Registration Google Form backs up to.
 Code in `./Name Tags`, as you might be able to guess, is for generating name tags from the link listed. There must be a template listed (first line).
+
+### Special Note
+I didn't write `./Roster Registration/checkLunch.gs` or `./Roster Registration/getRosterEntry.gs`, but they are still crucial.
